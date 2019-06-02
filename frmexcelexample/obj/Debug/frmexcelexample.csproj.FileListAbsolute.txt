@@ -1,0 +1,10 @@
+C:\Users\burak_000\source\repos\frmexcelexample\frmexcelexample\bin\Debug\frmexcelexample.exe.config
+C:\Users\burak_000\source\repos\frmexcelexample\frmexcelexample\bin\Debug\frmexcelexample.exe
+C:\Users\burak_000\source\repos\frmexcelexample\frmexcelexample\bin\Debug\frmexcelexample.pdb
+C:\Users\burak_000\source\repos\frmexcelexample\frmexcelexample\obj\Debug\frmexcelexample.csprojAssemblyReference.cache
+C:\Users\burak_000\source\repos\frmexcelexample\frmexcelexample\obj\Debug\frmexcelexample.Form1.resources
+C:\Users\burak_000\source\repos\frmexcelexample\frmexcelexample\obj\Debug\frmexcelexample.Properties.Resources.resources
+C:\Users\burak_000\source\repos\frmexcelexample\frmexcelexample\obj\Debug\frmexcelexample.csproj.GenerateResource.cache
+C:\Users\burak_000\source\repos\frmexcelexample\frmexcelexample\obj\Debug\frmexcelexample.csproj.CoreCompileInputs.cache
+C:\Users\burak_000\source\repos\frmexcelexample\frmexcelexample\obj\Debug\frmexcelexample.exe
+C:\Users\burak_000\source\repos\frmexcelexample\frmexcelexample\obj\Debug\frmexcelexample.pdb
